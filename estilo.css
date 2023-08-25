@@ -209,11 +209,7 @@ footer .container{
     align-items: flex-end;
 }
 
-@media (min-width: 850px){
-    header{
-        position: fixed;
-        width: 100%;
-    }
+
 
     header .container{
         flex-direction: row;
@@ -341,9 +337,7 @@ footer .container{
     }
 }
 
-@media (min-width: 1200px) {
-    #caracteristicas
-        background-position-x : calc(100vw - 800px);}
+
 #logoo {
     height: 40%;
     width: 40%;
