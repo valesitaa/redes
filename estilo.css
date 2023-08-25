@@ -346,20 +346,3 @@ footer .container{
     height: 40%;
     width: 40%;
 }
-@media screen and (min-width: 768px) {
-    /* Aquí van tus estilos para pantallas con ancho igual o mayor a 768px */
-  }
-  @media screen and (min-width: 768px) {
-    /* Estilos para pantallas con ancho igual o mayor a 768px */
-    body {
-      font-size: 18px;
-    }
-  }
-  /* Media query para pantallas pequeñas */
-@media screen and (max-width: 767px) {
-    /* Estilos para pantallas con ancho menor a 768px */
-    body {
-      font-size: 16px;
-    }
-  }
-  
